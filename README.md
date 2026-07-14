@@ -174,12 +174,26 @@ A collection of production-ready applications, real-world solutions, and persona
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">📊 GitHub Dashboard</h2>
 
 <p align="center">
+  <i>Insights into my development activity, contributions, and technology usage.</i>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan-wd&theme=github-dark&hide_border=true"/>
+<br>
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikeyan-wd&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=karthikeyan-wd&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-wd&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthikeyan-wd&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan-wd&theme=github-dark&hide_border=true"/>
 </p>
 ---
 
