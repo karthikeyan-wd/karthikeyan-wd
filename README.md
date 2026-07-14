@@ -230,28 +230,21 @@ A collection of production-ready applications, real-world solutions, and persona
 - 🤖 AI Integration for Modern Applications
 
 ---
+## 📫 Connect With Me
 
-# 📫 Connect With Me
+<p align="left">
 
-<p>
-
-<a href="YOUR_LINKEDIN">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
+<a href="YOUR_LINKEDIN" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
-</a>
-
-<a href="https://github.com/karthikeyan-wd">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
+<a href="https://github.com/karthikeyan-wd" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/919043522612" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
