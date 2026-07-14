@@ -27,17 +27,14 @@ Building modern, scalable and high-performance mobile applications with React Na
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-🚀 React Native Developer passionate about building high-quality mobile applications.
-
-📱 Currently working on Driver Partner & Ride-Hailing Applications.
-
-🌍 Based in India.
-
-⚡ Experienced in real-time applications, maps, payments, location tracking, authentication, and modern UI.
-
-💡 I enjoy solving complex problems and building scalable applications.
+- 🚀 React Native & React.js Developer
+- 📱 Passionate about building scalable mobile applications
+- ⚡ Specialized in Maps, Real-Time Systems, and Payment Integration
+- 🧩 Strong focus on Clean Architecture and Performance
+- 🌱 Continuously learning modern mobile technologies
+- 🤝 Open to collaboration on innovative products
 
 ---
 
