@@ -162,16 +162,17 @@ A collection of production-ready applications, real-world solutions, and persona
 | 💬 Chat App | Real-time Messaging | [View Repository](...) |
 
 
-# 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Dashboard</h2>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthikeyan-wd&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-wd&layout=compact&theme=tokyonight"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikeyan-wd&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=karthikeyan-wd&theme=github-dark&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-wd&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthikeyan-wd&theme=github_dark"/>
+</p>
 ---
 
 # 🔥 GitHub Streak
