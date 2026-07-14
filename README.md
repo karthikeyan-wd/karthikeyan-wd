@@ -253,6 +253,10 @@ A collection of production-ready applications, real-world solutions, and persona
 
 </a>
 
+<a href="https://wa.me/919043522612" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
 </p>
 
 ---
