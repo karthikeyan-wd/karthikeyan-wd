@@ -157,7 +157,7 @@ A collection of production-ready applications, real-world solutions, and persona
 
 | Project | Description | Repository |
 |---------|-------------|------------|
-| 🚖 T2Drive (VDrive) | Driver Partner Platform | [View Repository](https://github.com/yourusername/t2drive-showcase) |
+| 🚖 T2Drive | A feature-rich React Native driver-partner app with real-time ride management, navigation, payments, subscriptions, and driver onboarding. | [View Repository](https://github.com/yourusername/t2drive-showcase) |
 | 🛒 E-Commerce Admin | Admin Dashboard | [View Repository](...) |
 | 💬 Chat App | Real-time Messaging | [View Repository](...) |
 
