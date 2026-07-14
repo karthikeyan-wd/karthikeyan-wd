@@ -29,41 +29,27 @@ Building modern, scalable and high-performance mobile applications with React Na
 
 
 
-## <img src="https://img.icons8.com/fluency/24/developer.png" width="22"/> About Me
+## <img src="https://img.icons8.com/fluency/24/user-male-circle.png" width="22"/> About Me
 
-<table>
-<tr>
-<td width="100%">
+<img align="right" src="https://skillicons.dev/icons?i=react,ts,nodejs,firebase,aws,git" />
 
-💼 **Mobile Application Development**  
-Building scalable, user-centric mobile applications with **React Native**, focusing on performance and maintainable architecture.
+🔹 **Mobile Application Development** – Building scalable, high-performance cross-platform applications using **React Native**.
 
-🌐 **Web Application Development**  
-Creating modern, responsive web applications using **React.js**, **TypeScript**, and RESTful APIs.
+🔹 **Web Application Development** – Developing responsive and modern web applications with **React.js**, **TypeScript**, and REST APIs.
 
----
+🔹 **Specialized In**
+- 🗺️ Google Maps & Location Services
+- 🔌 Socket.IO & Real-Time Communication
+- ⚡ Real-Time Systems & Live Tracking
+- 💳 Payment Gateway Integration (Razorpay)
+- ☁️ AWS S3 Storage & File Management
 
-### ⚡ Specializations
-
-🗺️ Google Maps & Geolocation Services  
-🔌 Socket.IO & Real-Time Communication  
-📍 Live Location Tracking Systems  
-💳 Payment Gateway Integration (Razorpay)  
-☁️ AWS S3 File Storage & Media Management
-
----
-
-### 🌱 Currently Learning
-
-📱 Advanced React Native  
-🚀 CI/CD Pipelines  
-🏗️ Clean Architecture  
-⚡ Performance Optimization  
-🤖 AI Integration
-
-</td>
-</tr>
-</table>
+🔹 **Currently Learning**
+- 📱 Advanced React Native
+- 🚀 CI/CD & Deployment Automation
+- 🏗️ Clean Architecture
+- ⚡ Performance Optimization
+- 🤖 AI Integration for Modern Applications
 # 🚀 Current Focus
 
 - React Native
