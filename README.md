@@ -27,7 +27,7 @@ Building modern, scalable and high-performance mobile applications with React Na
 
 ---
 
-<div align="center">
+
 
 ## 👨‍💻 About Me
 
