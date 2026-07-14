@@ -153,7 +153,7 @@ A collection of production-ready applications, real-world solutions, and persona
 ---
 
 
-# 🚖 VDrive Driver Partner App
+# 🚖 T2drive Driver Partner App
 
 <p align="center">
   <img src="./assets/banner.png" width="100%">
