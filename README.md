@@ -130,40 +130,93 @@ Building modern, scalable and high-performance mobile applications with React Na
 
 ---
 
-# 📱 Featured Project
+# 🚖 VDrive Driver Partner App
 
-## 🚖 Driver Partner App
+<p align="center">
+  <img src="./assets/banner.png" width="100%">
+</p>
 
-A modern ride-hailing mobile application built with React Native.
+<p align="center">
+A modern ride-hailing platform built with <b>React Native</b> for real-time driver operations.
+</p>
 
-### Features
+---
 
-✅ OTP Authentication
+## 📖 Project Overview
 
-✅ Driver Registration
+A scalable driver application that enables onboarding, ride management, navigation, live tracking, payment collection, and real-time communication.
 
-✅ Document Verification
+---
 
-✅ Google Maps Integration
+## 🚀 Application Flow
 
-✅ Live Location Sharing
+`OTP Login` ➜ `Profile Setup` ➜ `Document Upload` ➜ `Verification` ➜ `Subscription` ➜ `Go Online` ➜ `Receive Ride` ➜ `Navigation` ➜ `Payment` ➜ `Trip Completed`
 
-✅ Online / Offline Status
+---
 
-✅ Ride Requests
+## 📱 Screens
 
-✅ Navigation
+<p align="center">
 
-✅ Wallet
+<img src="./screens/login.png" width="150"/>
+<img src="./screens/dashboard.png" width="150"/>
+<img src="./screens/request.png" width="150"/>
+<img src="./screens/navigation.png" width="150"/>
+<img src="./screens/payment.png" width="150"/>
 
-✅ Razorpay Payment
+</p>
 
-✅ Emergency Support
+---
 
-✅ Push Notifications
+## ✨ Features
 
-> **Company source code is private. Only project features are showcased.**
+<p>
 
+<img src="https://img.shields.io/badge/OTP_Authentication-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Driver_Onboarding-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Document_Verification-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Maps-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live_Location-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ride_Management-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Navigation-informational?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wallet-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Razorpay_Payment-0C2451?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Push_Notifications-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Emergency_SOS-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Trip_History-7952B3?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+| Mobile | Backend | Database | Cloud |
+|---------|----------|----------|--------|
+| React Native | Node.js | MongoDB | Firebase |
+| TypeScript | Express | PostgreSQL | AWS S3 |
+| Redux Toolkit | Socket.IO | Redis | FCM |
+
+---
+
+## 🔌 Integrations
+
+<p>
+
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay"/>
+<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📊 Project Status
+
+🟢 **Production Ready**
 ---
 
 # 💻 Other Projects
