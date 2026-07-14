@@ -29,15 +29,27 @@ Building modern, scalable and high-performance mobile applications with React Na
 
 
 
-## 👨‍💻 About Me
+## <img src="https://img.icons8.com/fluency/24/user-male-circle.png" width="22"/> About Me
 
-- 🚀 React Native & React.js Developer
-- 📱 Passionate about building scalable mobile applications
-- ⚡ Specialized in Maps, Real-Time Systems, and Payment Integration
-- 🧩 Strong focus on Clean Architecture and Performance
-- 🌱 Continuously learning modern mobile technologies
-- 🤝 Open to collaboration on innovative products
+<img align="right" src="https://skillicons.dev/icons?i=react,ts,nodejs,firebase,aws,git" />
 
+🔹 **Mobile Application Development** – Building scalable, high-performance cross-platform applications using **React Native**.
+
+🔹 **Web Application Development** – Developing responsive and modern web applications with **React.js**, **TypeScript**, and REST APIs.
+
+🔹 **Specialized In**
+- 🗺️ Google Maps & Location Services
+- 🔌 Socket.IO & Real-Time Communication
+- ⚡ Real-Time Systems & Live Tracking
+- 💳 Payment Gateway Integration (Razorpay)
+- ☁️ AWS S3 Storage & File Management
+
+🔹 **Currently Learning**
+- 📱 Advanced React Native
+- 🚀 CI/CD & Deployment Automation
+- 🏗️ Clean Architecture
+- ⚡ Performance Optimization
+- 🤖 AI Integration for Modern Applications
 
 # 🚀 Current Focus
 
