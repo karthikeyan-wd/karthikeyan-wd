@@ -44,12 +44,7 @@ Building modern, scalable and high-performance mobile applications with React Na
 - 💳 Payment Gateway Integration (Razorpay)
 - ☁️ AWS S3 Storage & File Management
 
-🔹 **Currently Learning**
-- 📱 Advanced React Native
-- 🚀 CI/CD & Deployment Automation
-- 🏗️ Clean Architecture
-- ⚡ Performance Optimization
-- 🤖 AI Integration for Modern Applications
+
 # 🚀 Current Focus
 
 - React Native
@@ -91,14 +86,27 @@ Building modern, scalable and high-performance mobile applications with React Na
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign"/>
 </p>
 
-## Frontend
+## 🌐 Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite,bootstrap,sass,redux,figma" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux"/>
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios"/>
+</p>
 ## Backend
 
 <p>
@@ -244,13 +252,12 @@ Interview questions and coding exercises.
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced React Native
-- CI/CD
-- Clean Architecture
-- Performance Optimization
-- AI Integration
+🔹 **Currently Learning**
+- 📱 Advanced React Native
+- 🚀 CI/CD & Deployment Automation
+- 🏗️ Clean Architecture
+- ⚡ Performance Optimization
+- 🤖 AI Integration for Modern Applications
 
 ---
 
