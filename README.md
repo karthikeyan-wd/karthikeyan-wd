@@ -29,30 +29,64 @@ Building modern, scalable and high-performance mobile applications with React Na
 
 <div align="center">
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-🚀 **React Native Developer**
+🧑‍💼 **Role**
 
-📱 Building scalable mobile applications
-
-⚡ Passionate about clean architecture
-
-🌍 Based in India
-
-🌱 Always learning new technologies
+React Native Developer
 
 </td>
 
-<td width="50%">
+<td>
 
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,firebase,git,github" />
+📍 **Location**
+
+India 🇮🇳
 
 </td>
+
+<td>
+
+💻 **Experience**
+
+Mobile Applications
+
+</td>
+
 </tr>
+
+<tr>
+
+<td>
+
+🚀 **Focus**
+
+React Native
+
+</td>
+
+<td>
+
+⚡ **Speciality**
+
+Real-time Apps
+
+</td>
+
+<td>
+
+🌱 **Learning**
+
+AI & Clean Architecture
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
