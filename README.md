@@ -131,6 +131,27 @@ Building modern, scalable and high-performance mobile applications with React Na
 </p>
 
 ---
+<br>
+
+<h1 align="center">
+🚀 Featured Projects
+</h1>
+
+<p align="center">
+A collection of production-ready applications, real-world solutions, and personal projects built with modern technologies.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React_Native-Mobile-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React-Web-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Full_Stack-Projects-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_Source-Learning-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
 
 # 🚖 VDrive Driver Partner App
 
