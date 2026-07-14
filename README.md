@@ -29,18 +29,15 @@ Building modern, scalable and high-performance mobile applications with React Na
 
 <div align="center">
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-| 🎯 Role | 📱 Focus | 🌍 Location |
-|:--------:|:--------:|:-----------:|
-| React Native Developer | Mobile Applications | India 🇮🇳 |
+- 🚀 React Native & React.js Developer
+- 📱 Passionate about building scalable mobile applications
+- ⚡ Specialized in Maps, Real-Time Systems, and Payment Integration
+- 🧩 Strong focus on Clean Architecture and Performance
+- 🌱 Continuously learning modern mobile technologies
+- 🤝 Open to collaboration on innovative products
 
-| 🚀 Skills | ⚡ Learning | 🤝 Status |
-|:---------:|:----------:|:---------:|
-| React • TypeScript • Firebase | AI • Architecture | Open to Collaboration |
-
-</div>
----
 
 # 🚀 Current Focus
 
