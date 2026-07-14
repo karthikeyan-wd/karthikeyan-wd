@@ -65,12 +65,30 @@ Building modern, scalable and high-performance mobile applications with React Na
 
 # 🛠 Tech Stack
 
-## Mobile
+## 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,typescript,kotlin,androidstudio,firebase,redis,nodejs,git,github,vscode,gradle" />
+</p>
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,androidstudio,firebase"/>
-
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux"/>
+  <img src="https://img.shields.io/badge/React%20Navigation-6C47FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AsyncStorage-4B32C3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios"/>
+  <img src="https://img.shields.io/badge/Reanimated-FF4154?style=flat-square"/>
+  <img src="https://img.shields.io/badge/React%20Native%20SVG-FFB300?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio"/>
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase%20Cloud%20Messaging-DD2C00?style=flat-square&logo=firebase"/>
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign"/>
 </p>
 
 ## Frontend
