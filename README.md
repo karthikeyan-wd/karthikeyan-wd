@@ -1,122 +1,264 @@
-<h1 align="center">Hi 👋, I'm Karthikeyan</h1>
+<div align="center">
 
-<h3 align="center">
-React Native Developer • React.js Developer • Mobile App Developer
-</h3>
+# Hi 👋, I'm Karthikeyan
 
-<p align="center">
-Building scalable mobile applications with React Native, JavaScript and modern technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=React+Native+Developer;Mobile+Application+Developer;React.js+Developer;JavaScript+%7C+TypeScript;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<p>
+Building modern, scalable and high-performance mobile applications with React Native.
+</p>
+
+<p>
+<a href="https://github.com/karthikeyan-wd">
+<img src="https://komarev.com/ghpvc/?username=karthikeyan-wd&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/karthikeyan-wd?tab=followers">
+<img src="https://img.shields.io/github/followers/karthikeyan-wd?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/karthikeyan-wd">
+<img src="https://img.shields.io/github/stars/karthikeyan-wd?style=for-the-badge"/>
+</a>
+
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+🚀 React Native Developer passionate about building high-quality mobile applications.
+
+📱 Currently working on Driver Partner & Ride-Hailing Applications.
+
+🌍 Based in India.
+
+⚡ Experienced in real-time applications, maps, payments, location tracking, authentication, and modern UI.
+
+💡 I enjoy solving complex problems and building scalable applications.
+
+---
+
+# 🚀 Current Focus
+
+- React Native
+- React.js
+- TypeScript
+- Mobile App Architecture
+- Performance Optimization
+- Firebase
+- Google Maps
+- REST APIs
+
+---
+
+# 🛠 Tech Stack
+
+## Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,androidstudio,firebase"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 📱 Featured Project
 
-- 💼 React Native Developer
-- 📱 Building Driver Partner Applications
-- 🌍 India
-- 🌱 Currently learning Advanced React Native
-- 🚀 Interested in Mobile App Architecture
-- 💬 Ask me about React Native, React.js, JavaScript
+## 🚖 Driver Partner App
+
+A modern ride-hailing mobile application built with React Native.
+
+### Features
+
+✅ OTP Authentication
+
+✅ Driver Registration
+
+✅ Document Verification
+
+✅ Google Maps Integration
+
+✅ Live Location Sharing
+
+✅ Online / Offline Status
+
+✅ Ride Requests
+
+✅ Navigation
+
+✅ Wallet
+
+✅ Razorpay Payment
+
+✅ Emergency Support
+
+✅ Push Notifications
+
+> **Company source code is private. Only project features are showcased.**
 
 ---
 
-## 🚀 Tech Stack
+# 💻 Other Projects
 
-### Mobile
-- React Native
-- Expo
-- Android
+### 🛒 Product Management Dashboard
 
-### Frontend
 - React.js
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-- Firebase
-
-### Database
-- MongoDB
-- MySQL
-
-### APIs
+- Ant Design
 - REST API
-- Google Maps API
-- Firebase
-- Socket.IO
-- Razorpay
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- Postman
-- Figma
+- CRUD
+- Search
+- Filters
+- Responsive UI
 
 ---
 
-## 📱 Current Project
+### 📱 React Native Components
 
-### Driver Partner App
-
-Features
-
-- Driver Registration
-- OTP Login
-- Live Location Tracking
-- Google Maps
-- Ride Request
-- Payment Collection
-- Wallet
-- Navigation
-- Document Verification
-- Subscription Plans
-
-> Company source code is private, so only features are shown.
+Reusable mobile UI components and animations.
 
 ---
 
-## 📊 GitHub Stats
+### 📚 JavaScript Practice
 
-![Stats](https://github-readme-stats.vercel.app/api?username=karthikeyan-wd&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-wd&layout=compact&theme=tokyonight)
+Interview questions and coding exercises.
 
 ---
 
-## 🏆 Skills
+# 📊 GitHub Analytics
 
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+<p align="center">
 
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthikeyan-wd&show_icons=true&theme=tokyonight"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-wd&layout=compact&theme=tokyonight"/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
+</p>
 
 ---
 
-## 📫 Connect
+# 🔥 GitHub Streak
 
-- GitHub: https://github.com/karthikeyan-wd
-- LinkedIn: *(Add your LinkedIn URL)*
-- Portfolio: *(Add your Portfolio URL)*
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=karthikeyan-wd&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 💡 Quote
+# 🏆 GitHub Trophies
 
-> "Keep Learning. Keep Building. Keep Growing."
+<p align="center">
 
-⭐ Thanks for visiting my profile.
+<img src="https://github-profile-trophy.vercel.app/?username=karthikeyan-wd&theme=tokyonight&column=4"/>
+
+</p>
+
+---
+
+# ⚙ Skills
+
+<p>
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/>
+
+<img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase"/>
+
+<img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+- React.js Certification
+- TCS iON Career Edge
+- UI/UX Masterclass
+- Full Stack Development
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced React Native
+- CI/CD
+- Clean Architecture
+- Performance Optimization
+- AI Integration
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="YOUR_LINKEDIN">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="https://github.com/karthikeyan-wd">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💬 Favorite Quote
+
+> **"Build solutions that create impact."**
+
+⭐ If you like my work, consider following my GitHub profile!
+
+</div>
