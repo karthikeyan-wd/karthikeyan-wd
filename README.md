@@ -45,17 +45,9 @@ Building modern, scalable and high-performance mobile applications with React Na
 - ☁️ AWS S3 Storage & File Management
 
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
-- React Native
-- React.js
-- TypeScript
-- Mobile App Architecture
-- Performance Optimization
-- Firebase
-- Google Maps
-- REST APIs
-
+`React Native` • `React.js` • `TypeScript` • `Mobile Architecture` • `Performance Optimization` • `Firebase` • `Google Maps` • `REST APIs`
 ---
 
 # 🛠 Tech Stack
