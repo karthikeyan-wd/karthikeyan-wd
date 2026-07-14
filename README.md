@@ -116,7 +116,7 @@ Building modern, scalable and high-performance mobile applications with React Na
 ## 🛠️ Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,git,github,postman,figma,vercel,firebase,gcp,docker,discord" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman,figma,vercel,firebase,gcp,docker,discord,xcode" />
 </p>
 
 <p>
