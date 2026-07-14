@@ -174,14 +174,13 @@ A collection of production-ready applications, real-world solutions, and persona
 
 ---
 
-# 🏆 GitHub Trophies
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=karthikeyan-wd&theme=tokyonight&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan-wd&theme=github-dark&hide_border=true"/>
 
 </p>
-
 ---
 
 # ⚙ Skills
