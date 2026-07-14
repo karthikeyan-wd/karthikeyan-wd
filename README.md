@@ -180,25 +180,34 @@ A collection of production-ready applications, real-world solutions, and persona
 </p>
 ---
 
-# ⚙ Skills
+## ⚙️ Core Skills
 
 <p>
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-
-<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/>
-
-<img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js"/>
-
-<img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase"/>
-
-<img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React_Navigation-6C47FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FCM-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Push_Notifications-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Integration-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Real_Time_Systems-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-374151?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance_Optimization-E53935?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI/UX-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
