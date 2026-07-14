@@ -89,7 +89,7 @@ Building modern, scalable and high-performance mobile applications with React Na
 ## 🌐 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite,bootstrap,sass,redux,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite,redux,figma,canva" />
 </p>
 
 <p>
@@ -100,27 +100,32 @@ Building modern, scalable and high-performance mobile applications with React Na
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux"/>
   <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios"/>
 </p>
-## Backend
+## ⚙️ Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,firebase,aws,postman,git,github" />
 </p>
 
-## Tools
+## 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,git,github,postman,figma,vercel,firebase,gcp,docker,discord" />
+</p>
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
-
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Console-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase%20Console-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Razorpay%20Dashboard-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge"/>
 </p>
 
 ---
