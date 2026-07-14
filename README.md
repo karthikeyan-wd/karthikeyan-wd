@@ -156,7 +156,7 @@ A collection of production-ready applications, real-world solutions, and persona
 # 🚖 T2drive Driver Partner App
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%">
+  <img src="./t2drivebanner.png" width="100%">
 </p>
 
 <p align="center">
