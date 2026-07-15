@@ -29,7 +29,7 @@ Building modern, scalable and high-performance mobile applications with React Na
 
 
 
-## <img src="https://img.icons8.com/fluency/24/user-male-circle.png" width="22"/> About Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/> About Me
 
 <img align="right" src="https://skillicons.dev/icons?i=react,ts,nodejs,firebase,aws,git" />
 
