@@ -158,7 +158,7 @@ A collection of production-ready applications, real-world solutions, and persona
 | Project | Description | Repository |
 |---------|-------------|------------|
 | 🚖 T2Drive | A feature-rich React Native driver-partner app with real-time ride management, navigation, payments, subscriptions, and driver onboarding. | [View Repository](https://github.com/yourusername/t2drive-showcase) |
-| 🛒 E-Commerce Admin | Admin Dashboard | [View Repository](...) |
+| 🛒 t2drive Admin | T2Drive Admin App is a comprehensive web-based management platform designed to streamline the operations of the T2Drive mobility ecosystem. It enables administrators to manage driver onboarding, document verification, trip operations, subscriptions, payments, user management, and business analytics from a centralized dashboard.| [View Repository](...) |
 | 💬 Chat App | Real-time Messaging | [View Repository](...) |
 
 
